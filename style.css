@@ -1,6 +1,6 @@
 body
 {
-    background: url("1.jpg");
+    background:whitesmoke;
 }
 
 #picture_1
@@ -17,4 +17,24 @@ h1
     position: absolute;
     left: 40%;
     top: 50%;
+}
+#io
+{
+
+    position: absolute;
+    left: 43%;
+    top:65%;
+
+}
+
+a{
+    text-decoration:blink ;
+    color: black;
+
+}
+p{
+    position: absolute;
+    left: 45%;
+    top: 58%;
+    font-weight: 400;
 }
