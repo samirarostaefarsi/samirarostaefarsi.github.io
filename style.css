@@ -1,0 +1,20 @@
+body
+{
+    background: url("1.jpg");
+}
+
+#picture_1
+{
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    left: 40%;
+    top: 20%;
+
+}
+h1
+{
+    position: absolute;
+    left: 40%;
+    top: 50%;
+}
